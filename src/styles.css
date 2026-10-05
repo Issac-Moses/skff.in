@@ -1,8 +1,8 @@
-@import "tailwindcss" source(none);
-@source "../src";
-@import "tw-animate-css";
-
-@custom-variant dark (&:is(.dark *));
+  wad        @import "tailwindcss" source(none);
+  awd        @source "../src";
+ awd         @import "tw-animate-css";
+          
+awd          @custom-variant dark (&:is(.dark *));
 
 /* SKFF — Soft Pastel Floral Design System
  * Single font: DM Sans (loaded via <link> in __root.tsx)
